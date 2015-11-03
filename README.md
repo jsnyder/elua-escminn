@@ -1,4 +1,4 @@
-ESC Boston eLua Presentation Files
+ESC MinneapoliseLua Presentation Files
 ==================================
 
 This repository contains a PDF of the latest slides used for the presentation as well as code.
